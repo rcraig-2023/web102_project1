@@ -1,6 +1,11 @@
 .App {
   text-align: center;
   padding: 20px;
+  font-family: "Gill Sans", sans-serif;
+}
+
+body {
+  background-color: #aeddf6;
 }
 
 .grid-container {
@@ -12,7 +17,7 @@
 }
 
 .organization-card {
-  border: 1px solid #ddd;
+  border: 1px solid #000000;
   padding: 20px;
   text-align: center;
 }
